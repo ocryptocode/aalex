@@ -6,10 +6,13 @@ Jarvis AI assistant in real life
 
 
 ## capabilities
-speech recognition
-machine learning
-AI intelligence
-advanced UI
+- speech recognition
+- machine learning
+- AI intelligence
+- advanced UI
+
+
+
 
 
 
