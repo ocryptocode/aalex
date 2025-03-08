@@ -12,6 +12,10 @@ Jarvis AI assistant in real life
 - advanced UI
 
 
+Roadmap
+
+Investor rounds and developement -> launch -> money opportunities -> sponsors
+
 
 
 
