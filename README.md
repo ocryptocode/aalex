@@ -1,5 +1,5 @@
 # AALEX
-Jarvis AI assistant in real life
+Jarvis AI assistant in real life built upon an AI ecosystem.
 
 
 ## features
