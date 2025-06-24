@@ -6,9 +6,9 @@ import pyttsx3
 import time
 import os
 import random
-import sqlite
+import sqlite   
 
-class AI_pipeline():
+class AI_pipeline(self..): # integrate ai models
 
 # === Initialize Speech Engine ===
 engine = pyttsx3.init()
@@ -51,6 +51,11 @@ def run_diagnostics():
         speak(f"{part}: {stat}")
         time.sleep(0.5)
 
+# === system ===
+
+
+
+
 # === Commands Handler ===
 def execute_command(cmd):
     if "diagnostics" in cmd:
@@ -88,9 +93,69 @@ if __name__ == "__main__":
         command = listen()
         if command:
             execute_command(command)
-  
+
+function aalex_brain(user_input):
+    memory = get_memory()
+    context = fetch_recent_chats()
+    
+    prompt = format_prompt(user_input, memory, context)
+    response = LLM.generate(prompt)
+    
+    command = parse_response(response)
+    if command:
+        result = execute_command(command)
+        update_memory(result)
+    
+    return result or response
+
+function get_memory():
+    return {
+        "name": "Oussama",
+        "projects": ["VORTEX", "PPH", "Crypto Tracker"],
+        "roles": ["Founder", "Dev", "Marketer"],
+        "preferences": ["Fast replies", "Crypto-friendly", "Build > Talk"]
+    }
+
+function fetch_recent_chats():
+    return vector_search("last 5 relevant convos")
+
+function update_memory(new_data):
+    append_to_vector_db(new_data)
+    update_structured_profile(new_data)
+
+function parse_response(response):
+    if response contains "command:":
+        return extract_json_command(response)
+    else:
+        return None
+
+function execute_command(command):
+    if command["command"] == "tweet":
+        return XAgent.post_tweet(command["content"])
+    elif command["command"] == "update_readme":
+        return CodeAgent.push_to_repo(command["repo"], command["text"])
+    elif command["command"] == "email_user":
+        return EmailAgent.send(command["to"], command["subject"], command["body"])
+    else:
+        return "Unknown command"
+
+
+class CodeAgent:
+    def push_to_repo(repo, text):
+        # Use GitHub API or local Git
+        commit(text)
+        push(repo)
+        return "Code pushed to " + repo
+
+while True:
+    user_input = listen_to_user()  # Text, speech, or UI
+    response = aalex_brain(user_input)
+    print("Aalex:", response)
+
+
+# == extracting chatgpt data == # using pinecone
 
 
 
 
-
+# running browser 
