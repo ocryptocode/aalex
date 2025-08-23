@@ -1,14 +1,11 @@
-import torch
-import openai
-import transformers
+# import modules and libraries
 import speech_recognition as sr
 import pyttsx3
 import time
 import os
 import random
+import requests
 import sqlite   
-
-class AI_pipeline(self..): # integrate ai models
 
 # === Initialize Speech Engine ===
 engine = pyttsx3.init()
@@ -52,7 +49,6 @@ def run_diagnostics():
         time.sleep(0.5)
 
 # === system ===
-
 
 
 
@@ -154,8 +150,22 @@ while True:
 
 
 # == extracting chatgpt data == # using pinecone
+def extract_data():
+    data = openai.
+
+
+    return get_memory()
 
 
 
+# running browser agent
+class nexus_browser(self, data):
+    self.data = 
 
-# running browser 
+
+# running tech setup (how ? => have aalex manage through arduinos)
+class AI_pipeline(self, model ....):
+    self.model = 
+    
+     # integrate ai models
+# 
