@@ -10,7 +10,7 @@ import sqlite
 # === Initialize Speech Engine ===
 engine = pyttsx3.init()
 engine.setProperty('rate', 180)
-engine.setProperty('voice', engine.getProperty('voices')[0].id)  # Change to [1] for female
+engine.setProperty('voice', engine.getProperty('voices')[0].id)  
 
 def speak(text):
     print(f"Aalex: {text}")
