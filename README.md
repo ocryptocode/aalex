@@ -16,6 +16,8 @@ Roadmap
 
 Investor rounds and developement -> launch -> money opportunities -> sponsors
 
+## whitepaper
+
 
 
 
