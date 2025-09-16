@@ -3,6 +3,9 @@ Jarvis AI assistant in real life built upon an AI ecosystem.
 
 
 ## features
+- education system 
+- AI user interface 
+- comptability with your favorite browser
 
 
 ## capabilities
