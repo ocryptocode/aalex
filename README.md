@@ -1,5 +1,5 @@
-# AALEX - AI Assistant Like Jarvis
-A comprehensive AI assistant for Windows PC with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities
+# AALEX
+A comprehensive AI assistant with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities
 
 ## 🚀 Complete System Features
 
