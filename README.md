@@ -4,7 +4,7 @@ A comprehensive AI assistant with voice recognition, text-to-speech, system cont
 ## 🚀 Complete System Features
 
 ### 🎤 Voice Assistant (aalex.py)
-- Wake word detection ("AALEX", "Alex", "Hey AALEX", "Jarvis")
+- Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
 - Google Speech Recognition for accurate voice commands
 - Continuous listening mode
 - Natural voice synthesis with male voice preference
