@@ -22,7 +22,7 @@ A comprehensive AI assistant with voice recognition, text-to-speech, system cont
 - **Transparency controls** and customization
 - **Auto-save** functionality
 
-### 🌐 AALEX Browser (aalex_browser.py)
+### 🌐 AALEX Browser (nexus) (aalex_browser.py)
 - **Integrated browser** for social media management
 - **AI tools** quick access (ChatGPT, Claude, Perplexity, etc.)
 - **Social media** management (Twitter, LinkedIn, Facebook, etc.)
