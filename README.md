@@ -222,5 +222,8 @@ This project is open source and available under the MIT License.
 - [ ] Advanced system monitoring
 - [ ] Plugin system for custom commands
 
-### usage 
+### uses
+
+- daily tasks
+- project management
 
