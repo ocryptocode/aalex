@@ -227,3 +227,27 @@ This project is open source and available under the MIT License.
 - daily tasks
 - project management
 
+### core
+aalex/
+├── core/
+│   ├── orchestrator.py
+│   ├── router.py
+│   └── memory.py
+│
+├── agents/
+│   ├── reference_agent.py
+│   ├── defense_agent.py
+│   ├── offense_agent.py
+│   ├── regulatory_agent.py
+│   └── synthesis_agent.py
+│
+├── knowledge/
+│   ├── morocco/
+│   ├── international/
+│   └── frameworks/
+│
+├── api/
+│   └── main.py
+│
+└── README.md
+
