@@ -251,3 +251,5 @@ aalex/
 │
 └── README.md
 
+we will have some hackathons!
+
