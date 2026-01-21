@@ -2,7 +2,6 @@
 A comprehensive AI assistant with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities
 
 ## 🚀 Complete System Features
-
 ### 🎤 Voice Assistant (aalex.py)
 - Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
 - Google Speech Recognition for accurate voice commands
