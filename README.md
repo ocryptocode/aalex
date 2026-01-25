@@ -10,6 +10,8 @@ A comprehensive AI assistant with voice recognition, text-to-speech, system cont
 - System control (volume, brightness, screenshots, system info)
 - Application launcher and web search integration
 
+
+
 ### 🖥️ GUI Interface (aalex_gui.py) - Ironman style
 - **Always-on-top overlay** in top-left corner
 - **Notes system** for quick note-taking
