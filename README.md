@@ -32,6 +32,8 @@ A comprehensive AI assistant with voice recognition, text-to-speech, system cont
 - **Developer tools** access
 - **Web content** management
 
+### notes and launchpads
+
 ### 🚀 Launcher System (aalex_launcher.py)
 - **One-click launch** of all components
 - **Process management** and monitoring
