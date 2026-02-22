@@ -1,6 +1,6 @@
 # AALEX
 
-A comprehensive AI agent with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities.
+A comprehensive AI with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities.
 
 
 
