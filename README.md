@@ -1,4 +1,4 @@
-# AALEX limited
+# AALEX 
 
 AI with voice recognition, text-to-speech, system control, and Iron Man-like interface capabilities.
 
