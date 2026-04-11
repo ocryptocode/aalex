@@ -5,8 +5,8 @@ ai infrastructure
 
 
 
-## 🚀 Complete System Features
-### 🎤 Voice Assistant (aalex.py)
+##  Complete System Features
+###  Voice Assistant (aalex.py)
 - Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
 - Google Speech Recognition for accurate voice commands
 - Continuous listening mode
