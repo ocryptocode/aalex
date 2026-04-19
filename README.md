@@ -1,6 +1,6 @@
 #### aalex
 
-ai infrastructure 
+ai infrastructure jarvis in real life 
 
 
 
