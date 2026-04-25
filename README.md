@@ -6,7 +6,8 @@ ai infrastructure jarvis in real life
 
 
 ##  Complete System Features
-###  Voice Assistant (aalex.py)
+
+
 - Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
 - Google Speech Recognition for accurate voice commands
 - Continuous listening mode
