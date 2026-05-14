@@ -8,10 +8,15 @@ ai infrastructure jarvis in real life
 
 
 - Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
+
 - Google Speech Recognition for accurate voice commands
+
 - Continuous listening mode
+
 - Natural voice synthesis with male voice preference
+
 - System control (volume, brightness, screenshots, system info)
+
 - Application launcher and web search integration
 
 
