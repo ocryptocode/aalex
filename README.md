@@ -7,7 +7,7 @@ ai infrastructure jarvis in real life
 ##  Complete System Features
 
 
-- Wake word detection ("AALEX", "Alex", "Hey AALEX", "Sir")
+- Wake word detection ("AALEX", "Alex",
 
 - Google Speech Recognition for accurate voice commands
 
