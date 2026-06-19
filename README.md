@@ -7,8 +7,6 @@ We are pairing it with BuilderOS
 ##  Complete System Features
 
 
-- Wake word detection ("AALEX", "Alex",
-
 - Google Speech Recognition for accurate voice commands
 
 - Continuous listening mode
