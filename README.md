@@ -9,6 +9,8 @@ We are pairing it with BuilderOS
 ##  Complete System Features
 
 
+
+
 - Google Speech Recognition for accurate voice commands
 
 - Continuous listening mode
