@@ -6,9 +6,6 @@ We are pairing it with BuilderOS
 
 ##  Complete System Features
 
-
-
-
 - Google Speech Recognition for accurate voice commands
 
 - Continuous listening mode
@@ -41,6 +38,8 @@ We are pairing it with BuilderOS
 - **Web content** management
 
 ### notes and launchpads
+
+### generative ai
 
 including VORTEX launchpad
 
