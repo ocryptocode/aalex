@@ -1,4 +1,4 @@
-# aalex_io
+# aalex
 
 AI infra, jarvis in real life 
 
