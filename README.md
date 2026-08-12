@@ -1,6 +1,6 @@
 # aalex
 
-AI infra, jarvis in real life 
+AI infra
 
 We are pairing it with BuilderOS
 
