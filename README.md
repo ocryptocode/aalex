@@ -1,7 +1,9 @@
 # aalex
 AI infra
 
-We are pairing it with BuilderOS
+pairing it with BuilderOS
+
+live on wolfist and vortex village website soon
 
 ##  Complete System Features
 
