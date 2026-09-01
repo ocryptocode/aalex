@@ -1,6 +1,5 @@
 # aalex
 AI infra
-
 pairing it with BuilderOS
 
 live on wolfist and vortex village website soon
