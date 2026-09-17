@@ -1,6 +1,5 @@
 
 # aalex
-
 AI infra
 pairing it with BuilderOS and educate
 
