@@ -1,11 +1,7 @@
 
 # aalex
-
-
-
-
 AI infra
-pairing it with BuilderOS and educate
+launching on vortex os
 
 live on wolfist and vortex village website soon
 
