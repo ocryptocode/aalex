@@ -2,7 +2,6 @@
 # aalex
 AI infra
 launching on vortex os
-
 live on wolfist and vortex village website soon
 
 ##  Complete System Features
