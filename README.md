@@ -1,4 +1,3 @@
-
 # aalex
 AI infra
 launching on vortex os
