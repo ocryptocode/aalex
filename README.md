@@ -3,8 +3,6 @@ live on wolfist and vortex village website soon
 ##  Complete System Features
 - Google Speech Recognition for accurate voice commands
 
-
-
 - Continuous listening mode
 
 - Natural voice synthesis with male voice preference
